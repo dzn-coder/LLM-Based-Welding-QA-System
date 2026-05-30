@@ -1,0 +1,8 @@
+代码包：
+.venv：整个代码运行所需的虚拟环境
+Chat_History：存放会话历史记录的json文件
+Data：存放上传至知识库的原始知识文档
+Data_Registry：存放知识文档的注册表
+Session_List：存放所有会话名的json文件
+Vector_Lib：构建好的向量库
+requirements.txt：代码运行所需要的所有模块和库及其对应版本
