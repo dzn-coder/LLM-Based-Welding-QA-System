@@ -1,0 +1,27 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "H型钢腹板和翼板拼接时的要求是什么？",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "##### 问题分析：\n根据提供的信息，H型钢的腹板与翼缘板在进行拼接时有明确的规定。具体来说，接头之间的距离需超过200mm；对于翼缘板拼接长度需要超出板宽的两倍以上；同时，腹板拼接宽度应达到300mm以上，长度也要超过600mm。这些要求主要是为了确保焊接质量和结构强度。\n\n##### 结果总结：\nH型钢腹板与翼缘板在进行拼接时的具体要求为：接头之间的距离需大于200mm；翼缘板的拼接长度应超过其板宽的两倍；腹板的拼接宽度需大于300mm，且长度要大于600mm。\n\n##### 知识来源：\n- 文件名：钢结构用焊接H型钢制作及焊接变形控制_姚小彬.pdf\n  - 页面：未明确指定具体页码",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "H型钢的焊接方法有哪些？",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "对于中小型H型钢构件，特别是需要灵活装配焊接的情况（如加劲板、连接板、节点部位等），通常采用CO₂气体保护焊（MAG/MIG）。这种方法适用于空间复杂的位置，操作灵活且焊接效率高。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  }
+]
